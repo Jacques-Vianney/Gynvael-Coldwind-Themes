@@ -129,15 +129,37 @@
 .isUnread-3Ef-o9 {
     border-color: #46d378;
 }
-
+.base-1pYU8j selectable-3dP3y-{
+	background-color: #16162C;
+}
+.autocompleteInner-zh20B_{
+	background-color: #16162C;
+}
 .username-2b1r56{
      color: #B7B7F7;
      background: transparent;
 
 }
+.theme-dark .selected-1Tbx07 {
+    background-color: #16162C;
+}
 .nameTag-m8r81H{
      color: #B7B7F7;
      background: transparent;
+}
+.autocompleteRowVertical-q1K4ky{
+background-color: #16162C;
+}
+.theme-dark .description-11DmNu, .theme-dark .descriptionUsername-J_75O8 {
+    color: #46d378;
+}
+.base-1pYU8j selectable-3dP3y- selected-1Tbx07{
+	 color: #16162C;
+	 background-color: #16162C;
+	 box-shadow: inset 0 0 120px rgba(0,0,0,.75);
+	 border-color: #16162C;
+
+
 }
 .avatarHintInner-Dco91E {
     -webkit-box-sizing: border-box;
