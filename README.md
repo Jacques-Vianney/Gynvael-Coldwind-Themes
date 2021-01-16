@@ -1,5 +1,5 @@
 # Gynvael-Coldwind-Themes
- Pack of theme inspired by coloristic of Gynvael Coldwind 
+Pack of themes inspired by colorist of Gynvael Coldwind
 
 
 **Discord-Theme:**
