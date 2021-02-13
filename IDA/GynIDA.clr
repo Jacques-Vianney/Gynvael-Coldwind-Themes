@@ -1,0 +1,114 @@
+[DISASM]
+000000	 //
+78d346	 //Default color
+04fc04	 //Regular comment
+7cd45c	 //Repeatable comment
+04fc04	 //Automatic comment
+ff8bff	 //Instruction
+78d346	 //Dummy Data Name
+78d346	 //Regular Data Name
+7cd45c	 //Demangled Name
+78d346	 //Punctuation
+549ef0	 //Char constant in instruction
+549ef0	 //String constant in instruction
+549ef0	 //Numeric constant in instruction
+7cd45c	 //Void operand
+00ff00	 //Code reference
+7cd45c	 //Data reference
+7cd45c	 //Code reference to tail byte
+7cd45c	 //Data reference to tail byte
+7cd45c	 //Error or problem
+c0c0c0	 //Line prefix
+78d346	 //Binary line prefix bytes
+78d346	 //Extra line
+78d346	 //Alternative operand
+78d346	 //Hidden name
+78d346	 //Library function name
+78d346	 //Local variable name
+78d346	 //Dummy code name
+d080c0	 //Assembler directive
+78d346	 //Macro
+549ef0	 //String constant in data directive
+549ef0	 //Char constant in data directive
+549ef0	 //Numeric constant in data directive
+ff8bff	 //Keywords
+d080c0	 //Register name
+7cd45c	 //Imported name
+7cd45c	 //Segment name
+78d346	 //Dummy unknown name
+7cd45c	 //Regular code name
+7cd45c	 //Regular unknown name
+7cd45c	 //Collapsed line
+000000	 //Max color number
+331b1b	 //Line prefix: library function
+331b1b	 //Line prefix: regular function
+7cd45c	 //Line prefix: instruction
+7cd45c	 //Line prefix: data
+7cd45c	 //Line prefix: unexplored
+78d346	 //Line prefix: externs
+7cd45c	 //Line prefix: current item
+78d346	 //Line prefix: current line
+04fc04	 //Punctuation
+78d346	 //Opcode bytes
+000000	 //Manual operand
+[NAVBAR]
+78d35e	 //Library function
+ff8bff	 //Regular function
+2ffc8c	 //Instruction
+d080c0	 //Data item
+549ef0	 //Unexplored
+00ff00	 //External symbol
+5b5bff	 //Errors
+000000	 //Gaps
+d080c0	 //Cursor
+00aaff	 //Address
+[DEBUG]
+184b4b	 //Current IP
+ffa0a0	 //Current IP (+ enabled breakpoint)
+408020	 //Current IP (+ disabled breakpoint)
+1e1e1e	 //Default background
+5a2bb8	 //Address (+ enabled breakpoint)
+00ff00	 //Address (+ disabled breakpoint)
+004080	 //Current IP (+ unavailable breakpoint)
+0080ff	 //Address (+ unavailable breakpoint)
+858585	 //Registers
+d69c56	 //Registers (changed)
+800080	 //Registers (edited)
+[ARROW]
+ff8bff	 //Jump in current function
+d080c0	 //Jump external to function
+ff8bff	 //Jump under the cursor
+ff8bff	 //Jump target
+ff8bff	 //Register target
+[GRAPH]
+753b46	 //Top color
+753b46	 //Bottom color
+753b46	 //Normal title
+5e2f38	 //Selected title
+5e2f38	 //Current title
+00ffff	 //Group frame
+000000	 //Node shadow
+5e2f38	 //Highlight color 1
+5e2f38	 //Highlight color 2
+0000ff	 //Foreign node
+ff0000	 //Normal edge
+008000	 //Yes edge
+0000ff	 //No edge
+ff00ff	 //Highlighted edge
+00ff00	 //Current edge
+[MISC]
+78d35e	 //Message text
+753b46	 //Message background
+00ff00	 //Patched bytes
+d080c0	 //Unsaved changes
+[OTHER]
+753b46	 //Highlight color
+753b46	 //Hint color
+[SYNTAX]
+d080c0	0	0	 //Keyword 1
+d080c0	0	0	 //Keyword 2
+d080c0	0	0	 //Keyword 3
+549ef0	0	0	 //String
+00ff00	0	1	 //Comment
+8f8f38	1	0	 //Preprocessor
+549ef0	1	0	 //Number
