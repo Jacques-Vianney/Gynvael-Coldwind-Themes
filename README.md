@@ -14,3 +14,7 @@ Marketplace: https://marketplace.visualstudio.com/items?itemName=Vianney.gyn-the
 **IDA-Theme:**
 ![IDA](https://github.com/Jacques-Vianney/Gynvael-Coldwind-Themes/blob/main/Image/ida.png)
 Installation: Options -> Colors -> Import GynIDA.clr
+
+**HxD-Theme:**
+![HxD](https://github.com/Jacques-Vianney/Gynvael-Coldwind-Themes/blob/main/Image/hxd.png)
+Installation:Paste Settings folder there where HxD is located
